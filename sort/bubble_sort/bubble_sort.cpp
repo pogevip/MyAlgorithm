@@ -31,5 +31,6 @@ int main(){
     std::vector<int> result = bubbleSort(vec);
     printVector(vec);
     printVector(result);
+    
     return 0;
 }
